@@ -1,0 +1,14 @@
+{
+    "description": "Card 0 / 0",
+    "attributes": [
+        {
+            "trait_type": "Batch",
+            "value": 0
+        },
+        {
+            "trait_type": "Edition",
+            "value": 0
+        }
+    ],
+    "collection": "ipfsCID/card1-1.json"
+}
